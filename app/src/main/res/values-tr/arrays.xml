@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Theme -->
+    <string-array name="theme_entries">
+        <item>Sistem</item>
+        <item>Açık</item>
+        <item>Koyu</item>
+    </string-array>
+
+    <!-- Weekdays -->
+    <string-array name="weekdays">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Cumartesi</item>
+    </string-array>
+
+    <!-- Unit System -->
+    <string-array name="unit_system_entries">
+        <item>Metrik (km)</item>
+        <item>Emperyal (miles)</item>
+    </string-array>
+
+</resources>
